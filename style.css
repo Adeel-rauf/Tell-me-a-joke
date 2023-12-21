@@ -1,0 +1,26 @@
+html {
+    margin:0px;
+    padding:0px;
+  }
+  body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin:0px;
+  }
+  #joke{
+    background-color: #e0e0e6;
+    color:black;
+    padding:20px 0;
+    font-size: 1.9rem;
+    text-align: center;
+    width:80%;
+    height:200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+     
+  }
+  
+  
